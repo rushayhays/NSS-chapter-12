@@ -1,0 +1,16 @@
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\bin\Debug\net5.0\Chapter12.exe
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\bin\Debug\net5.0\Chapter12.deps.json
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\bin\Debug\net5.0\Chapter12.runtimeconfig.json
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\bin\Debug\net5.0\Chapter12.runtimeconfig.dev.json
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\bin\Debug\net5.0\Chapter12.dll
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\bin\Debug\net5.0\ref\Chapter12.dll
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\bin\Debug\net5.0\Chapter12.pdb
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.csproj.AssemblyReference.cache
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.AssemblyInfoInputs.cache
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.AssemblyInfo.cs
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.csproj.CoreCompileInputs.cache
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.dll
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\ref\Chapter12.dll
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.pdb
+C:\Users\rusha\workspace\csharp\LearnByDoing\Chapter12\obj\Debug\net5.0\Chapter12.genruntimeconfig.cache
